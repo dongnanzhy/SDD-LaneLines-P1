@@ -14,7 +14,9 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./test_images/solidWhiteCurve.jpg "solidWhiteCurve"
-[image2]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve_out"
+
+[image2]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve_output"
+
 ---
 
 ### Reflection
@@ -35,6 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the `draw
 One example of detected lanes can be seen below:
 
 ![alt text][image1]
+
 ![alt text][image2]
 
 
